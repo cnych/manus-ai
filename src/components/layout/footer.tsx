@@ -2,48 +2,46 @@
 
 import Link from 'next/link';
 import { useTranslations } from 'next-intl';
-import { Github, Twitter, Linkedin, Mail } from 'lucide-react';
-import { motion } from 'framer-motion';
 import { Button } from '@/components/ui/button';
 
 export function Footer() {
   const t = useTranslations('Footer');
   const currentYear = new Date().getFullYear();
 
-  const footerLinks = [
-    {
-      title: t('products'),
-      links: [
-        { label: t('links.agent'), href: '/products/agent' },
-        { label: t('links.platform'), href: '/products/platform' },
-        { label: t('links.enterprise'), href: '/products/enterprise' },
-      ],
-    },
-    {
-      title: t('resources'),
-      links: [
-        { label: t('links.documentation'), href: '/docs' },
-        { label: t('links.api'), href: '/docs/api' },
-        { label: t('links.examples'), href: '/examples' },
-      ],
-    },
-    {
-      title: t('company'),
-      links: [
-        { label: t('links.about'), href: '/about' },
-        { label: t('links.blog'), href: '/blog' },
-        { label: t('links.careers'), href: '/careers' },
-      ],
-    },
-    {
-      title: t('legal'),
-      links: [
-        { label: t('links.privacy'), href: '/privacy' },
-        { label: t('links.terms'), href: '/terms' },
-        { label: t('links.security'), href: '/security' },
-      ],
-    },
-  ];
+  // const footerLinks = [
+  //   {
+  //     title: t('products'),
+  //     links: [
+  //       { label: t('links.agent'), href: '/products/agent' },
+  //       { label: t('links.platform'), href: '/products/platform' },
+  //       { label: t('links.enterprise'), href: '/products/enterprise' },
+  //     ],
+  //   },
+  //   {
+  //     title: t('resources'),
+  //     links: [
+  //       { label: t('links.documentation'), href: '/docs' },
+  //       { label: t('links.api'), href: '/docs/api' },
+  //       { label: t('links.examples'), href: '/examples' },
+  //     ],
+  //   },
+  //   {
+  //     title: t('company'),
+  //     links: [
+  //       { label: t('links.about'), href: '/about' },
+  //       { label: t('links.blog'), href: '/blog' },
+  //       { label: t('links.careers'), href: '/careers' },
+  //     ],
+  //   },
+  //   {
+  //     title: t('legal'),
+  //     links: [
+  //       { label: t('links.privacy'), href: '/privacy' },
+  //       { label: t('links.terms'), href: '/terms' },
+  //       { label: t('links.security'), href: '/security' },
+  //     ],
+  //   },
+  // ];
 
   return (
     <footer className="bg-background border-t border-border">

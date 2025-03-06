@@ -8,7 +8,7 @@ import ThemeToggle from './ThemeToggle'
 import { usePathname } from 'next/navigation'
 import { cn } from '@/lib/utils'
 import { useLocale } from 'next-intl'
-import { ActivitySquare } from 'lucide-react'
+
 
 export default function Navbar() {
   const t = useTranslations('nav')
