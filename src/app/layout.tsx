@@ -13,7 +13,7 @@ export default function RootLayout({
     <html suppressHydrationWarning>
       <body className={inter.className} suppressHydrationWarning>
         {children}
-        <GoogleAnalytics gaId="G-JBQK9CPP1N" />
+        <GoogleAnalytics gaId="G-8MTZXRQHWS" />
       </body>
     </html>
   )
