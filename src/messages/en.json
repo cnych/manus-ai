@@ -1,0 +1,288 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Manus AI Products",
+    "cases": "Manus AI Cases",
+    "invite": "Request Invitation Code",
+    "about": "About Manus AI",
+    "community": "Community",
+    "getting_started": "Getting Started",
+    "guides": "Guides",
+    "advanced": "Advanced Topics",
+    "items": {
+      "introduction": "Introduction",
+      "installation": "Installation",
+      "quick_start": "Quick Start",
+      "resources": "Resource Management",
+      "tools": "Tool Integration",
+      "messages": "Message Format",
+      "security": "Security",
+      "deployment": "Deployment",
+      "configuration": "Configuration"
+    },
+    "flowchart": "Manus AI Flowchart",
+    "switchLocale": "切换到中文"
+  },
+  "home": {
+    "title": "Manus AI - Making AI Your Assistant",
+    "description": "Manus AI is a leading general-purpose AI Agent that helps you complete various complex tasks.",
+    "getStarted": "Get Started with Manus AI",
+    "joinCommunity": "Join Manus AI Community"
+  },
+  "Cases": {
+    "title": "Manus AI's Extraordinary Capabilities",
+    "description": "Manus AI excels at handling various complex tasks, providing comprehensive intelligent assistance",
+    "viewAll": "View More Manus AI Use Cases",
+    "cases": {
+      "data-analysis": {
+        "title": "Data Analysis & Visualization",
+        "description": "Upload data, and Manus AI automatically analyzes and generates rich, intuitive data visualizations and reports"
+      },
+      "code-development": {
+        "title": "Code Development & Debugging",
+        "description": "Present your requirements, and Manus AI automatically writes, tests, and deploys code to create complete applications"
+      },
+      "content-creation": {
+        "title": "Content Creation & Design",
+        "description": "Manus AI generates beautiful slides, reports, charts, and various design materials to improve work efficiency"
+      },
+      "research": {
+        "title": "In-depth Research & Information Organization",
+        "description": "Manus AI automatically collects and organizes information from multiple sources, generating comprehensive research reports"
+      },
+      "travel-planning": {
+        "title": "Travel Planning & Arrangements",
+        "description": "Based on budget and preferences, Manus AI automatically generates complete travel plans, including attractions, transportation, and accommodations"
+      },
+      "document-processing": {
+        "title": "Document Batch Processing",
+        "description": "Manus AI batch analyzes contracts, financial statements, user feedback, and other documents to extract key information"
+      }
+    }
+  },
+  "Footer": {
+    "description": "Manus AI is a general-purpose AI Agent that understands your needs and automatically completes various complex tasks to improve work efficiency.",
+    "rights": "All rights reserved.",
+    "products": "Manus AI Products",
+    "resources": "Manus AI Resources",
+    "company": "Company",
+    "legal": "Legal",
+    "links": {
+      "agent": "Manus AI Assistant",
+      "platform": "Manus AI Platform",
+      "enterprise": "Manus AI Enterprise",
+      "documentation": "Manus AI Documentation",
+      "api": "Manus AI API",
+      "examples": "Manus AI Examples",
+      "about": "About Us",
+      "blog": "Manus AI Blog",
+      "careers": "Careers",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use",
+      "security": "Security"
+    }
+  },
+  "Index": {
+    "meta": {
+      "title": "Manus AI - The World's First General-Purpose AI Assistant Launching in 2025",
+      "description": "Manus AI is the world's first general-purpose AI agent launched by a company established in 2025, capable of turning thoughts into actions, achieving SOTA performance in GAIA benchmarks. Manus AI excels at automatically completing complex tasks such as travel planning, stock analysis, and content creation.",
+      "keywords": "Manus AI, Manus AI Assistant, General-Purpose AI, 2025 AI, GAIA Benchmark, SOTA Performance, Manus AI Agent, B2B AI Solutions, Stock Analysis AI, Travel Planning AI, Intelligent Assistant, Task Automation, AI Agent",
+      "og": {
+        "title": "Manus AI - The World's First General-Purpose AI Assistant Launching in 2025",
+        "description": "Manus AI derives from the Latin word for 'hand,' symbolizing the ability to execute tasks, achieving SOTA performance across all GAIA benchmark difficulty levels, far surpassing GPT-4"
+      },
+      "twitter": {
+        "title": "Manus AI - The World's First General-Purpose AI Assistant Launching in 2025",
+        "description": "Manus AI is a powerful general-purpose AI agent that turns users' ideas into actions, handling various tasks including B2B supplier sourcing and financial report analysis"
+      }
+    },
+    "hero": {
+      "introducing": "New Release",
+      "title": "The AI Assistant That Turns Thoughts Into Actions",
+      "description": "Manus AI is a world-leading general-purpose AI agent designed to help users efficiently complete various complex tasks. The name Manus comes from the Latin word for 'hand,' symbolizing its ability to execute tasks. It has achieved state-of-the-art (SOTA) performance across all three difficulty levels in the GAIA benchmark, far surpassing other AI assistants.",
+      "getStarted": "Get Started with Manus AI",
+      "invite": "Request Invitation Code",
+      "documentation": "Learn More About Manus AI",
+      "tips": {
+        "title": "Manus AI Usage Tips - AI Leader Founded in 2025",
+        "expression": {
+          "title": "Manus AI Request Expression Techniques",
+          "description": "The clearer and more specific your description of what Manus AI should deliver, the more precisely Manus AI will execute. Clearly state expectations, format requirements, and quality standards."
+        },
+        "breakdown": {
+          "title": "Manus AI Task Breakdown Method",
+          "description": "For complex tasks, use a progressive approach: have Manus AI complete one part first, then provide further requirements based on intermediate results."
+        },
+        "knowledge": {
+          "title": "Manus AI Knowledge System",
+          "description": "Add specific requirements and preferences to Manus AI, or when Manus AI completes an operation satisfactorily, tell it to 'remember this approach for next time.'"
+        },
+        "correction": {
+          "title": "Manus AI Timely Correction",
+          "description": "When you notice Manus AI's execution deviating from expectations, intervene immediately with guidance rather than waiting until the task is complete. Manus AI will quickly adjust its strategy."
+        }
+      }
+    },
+    "overview": {
+      "title": "Why Choose Manus AI",
+      "description1": "Founded in 2025, Manus AI is a powerful general-purpose AI agent designed to turn users' ideas into actions. In the GAIA benchmark tests, Manus AI has achieved state-of-the-art (SOTA) performance across all three difficulty levels, far surpassing other AI assistants currently on the market.",
+      "description2": "Manus AI doesn't just provide advice but delivers complete task results directly. Humans score 92% on GAIA tests, while GPT-4 with plugins only scores 15%. Manus AI's performance significantly exceeds current advanced models.",
+      "supports": {
+        "systems": "Manus AI Multi-Platform Support",
+        "tools": "Manus AI Rich Tool Integration",
+        "environments": "Manus AI Adapts to Various Environments",
+        "datasets": "Manus AI Processes Diverse Data"
+      },
+      "components": {
+        "title": "Manus AI Core Advantages",
+        "spec": "Intelligent Tool Calling",
+        "desktop": "Independent Operation Capability",
+        "servers": "Task Planning & Execution"
+      },
+      "architecture": {
+        "title": "How Manus AI Works",
+        "description": "Manus AI employs an advanced Agent architecture that understands requirements, plans steps, calls tools, and executes tasks.",
+        "diagram": "flowchart TB\n    Input[User Requirements]-->|Understand Intent|Planning[Task Planning]\n    Planning-->|Break Down Steps|Execution[Execute Tasks]\n    Execution-->|Call Tools|Tools[Tool Integration]\n    Tools-->|Process Results|Output[Complete Tasks]\n    subgraph Core Capabilities\n        Understanding[Understanding Ability]\n        Reasoning[Reasoning Ability]\n        ToolUsage[Tool Usage]\n    end",
+        "server": {
+          "title": "How Manus AI Differs from Traditional Chatbots",
+          "description": "Manus AI has significant advantages compared to traditional chatbots like ChatGPT and Claude:",
+          "revision": "What Makes Manus AI Unique",
+          "primitives": {
+            "description": "Key differences from traditional chatbots:",
+            "headers": ["Capability", "Traditional Chatbots", "Manus AI"],
+            "items": [
+              {
+                "primitive": "Tool Calling",
+                "control": "Limited or None",
+                "description": "Advanced and Systematic",
+                "example": "Browser, Code Editor, Data Analysis Tools, etc."
+              },
+              {
+                "primitive": "Working Method",
+                "control": "Requires Continuous Supervision",
+                "description": "Works Independently",
+                "example": "Completes Tasks in the Background"
+              },
+              {
+                "primitive": "Interaction Style",
+                "control": "Tool-like Interaction",
+                "description": "Human Colleague-like Collaboration",
+                "example": "Adapts to Changing Requirements"
+              }
+            ]
+          },
+          "features": [
+            {
+              "title": "Manus AI's Tool Calling Capability",
+              "description": "Traditional chatbots can only provide text answers or suggestions, while Manus AI systematically plans and executes tasks, actively calling various tools to truly help you complete complex tasks end-to-end.",
+              "items": [
+                "Manus AI actively calls browsers, code editors, data analysis tools, etc.",
+                "Manus AI doesn't just tell you 'what you should do' but directly does it for you",
+                "Manus AI delivers complete results rather than just providing guidance"
+              ]
+            },
+            {
+              "title": "Manus AI's Independent Operation Capability",
+              "description": "Manus AI has its own computing environment and can work independently without requiring your continuous supervision.",
+              "items": [
+                "While you handle other matters, Manus AI autonomously completes tasks in the background",
+                "Manus AI truly frees your time and attention",
+                "Manus AI works in a 'delegate-deliver' mode"
+              ]
+            },
+            {
+              "title": "Manus AI's New Human-Machine Interaction Paradigm",
+              "description": "Collaborating with Manus AI is more like working with a human colleague than using a tool.",
+              "items": [
+                "Manus AI flexibly adapts to constantly changing requirements",
+                "Manus AI remembers your preferences for future tasks",
+                "Manus AI becomes an increasingly understanding intelligent partner"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "protocol": {
+      "inviteCode": {
+        "title": "Get Invitation Code",
+        "description": "Manus AI is currently in closed beta. Get an invitation code for priority access",
+        "buttonText": "Get Invitation Code",
+        "limitedSpots": "Limited Spots",
+        "exclusiveAccess": "Exclusive Test Access",
+        "prioritySupport": "Priority Technical Support",
+        "benefits": {
+          "priority": {
+            "title": "Priority Experience",
+            "description": "Priority access to experience Manus AI's latest features"
+          },
+          "support": {
+            "title": "Dedicated Support",
+            "description": "Enjoy dedicated technical support and problem-solving services"
+          },
+          "influence": {
+            "title": "Influence the Product",
+            "description": "Your feedback will directly influence the product's development direction"
+          }
+        },
+        "guide": {
+          "title": "Visit the Official Website Now to Get an Invitation Code",
+          "description": "Manus AI is currently in closed beta. You can apply for an invitation code through the official website to be among the first to experience Manus AI's powerful features.",
+          "discordButton": "Go to Discord to Apply for an Invitation Code",
+          "homeButton": "Return to Home Page"
+        },
+        "benefitsSection": {
+          "title": "Invitation Code Benefits"
+        },
+        "closedBeta": {
+          "title": "Why is it Currently in Closed Beta?",
+          "description": "Manus AI is in a rapid iteration phase. We hope to ensure a good experience for each user through an invitation system while collecting valuable feedback to continuously improve the product."
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "Model Context Protocol (MCP) is an open standard for integrating AI models with external data and tools.",
+    "copyright": "All rights reserved.",
+    "sections": {
+      "product": "Product",
+      "community": "Community",
+      "legal": "Legal"
+    },
+    "links": {
+      "docs": "Documentation",
+      "about": "About",
+      "blog": "Blog",
+      "changelog": "Changelog",
+      "github": "GitHub",
+      "discord": "Discord",
+      "twitter": "Twitter",
+      "feedback": "Feedback",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  },
+  "Common": {
+    "loading": "Loading...",
+    "error": "Error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "more": "More",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "finish": "Finish",
+    "continue": "Continue",
+    "submit": "Submit",
+    "confirm": "Confirm",
+    "success": "Success",
+    "failed": "Failed",
+    "copied": "Copied",
+    "learnMore": "Learn More"
+  }
+}

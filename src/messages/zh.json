@@ -1,0 +1,288 @@
+{
+    "nav": {
+      "home": "首页",
+      "products": "Manus AI 产品",
+      "cases": "Manus AI 案例",
+      "invite": "申请邀请码",
+      "about": "关于 Manus AI",
+      "community": "社区",
+      "getting_started": "入门指南",
+      "guides": "使用指南",
+      "advanced": "高级主题",
+      "items": {
+        "introduction": "简介",
+        "installation": "安装",
+        "quick_start": "快速开始",
+        "resources": "资源管理",
+        "tools": "工具集成",
+        "messages": "消息格式",
+        "security": "安全性",
+        "deployment": "部署",
+        "configuration": "配置"
+      },
+      "flowchart": "Manus AI 流程图",
+      "switchLocale": "Switch to English"
+    },
+    "home": {
+      "title": "Manus AI - 让AI成为你的助手",
+      "description": "Manus AI是领先的通用型AI Agent，帮助你完成各种复杂任务。",
+      "getStarted": "开始使用Manus AI",
+      "joinCommunity": "加入Manus AI社区"
+    },
+    "Cases": {
+      "title": "Manus AI超乎想象的能力",
+      "description": "Manus AI擅长处理各种复杂任务，为您提供全方位的智能协助",
+      "viewAll": "查看更多Manus AI用例",
+      "cases": {
+        "data-analysis": {
+          "title": "数据分析与可视化",
+          "description": "上传数据，Manus AI自动分析并生成丰富直观的数据可视化和报告"
+        },
+        "code-development": {
+          "title": "代码开发与调试",
+          "description": "提出需求，Manus AI自动编写、测试和部署代码，创建完整应用"
+        },
+        "content-creation": {
+          "title": "内容创作与设计",
+          "description": "Manus AI生成精美幻灯片、报告、图表和各类设计素材，提升工作效率"
+        },
+        "research": {
+          "title": "深度研究与资料整理",
+          "description": "Manus AI自动收集和整理多来源信息，生成全面详实的研究报告"
+        },
+        "travel-planning": {
+          "title": "旅行规划与安排",
+          "description": "根据预算和偏好，Manus AI自动生成完整旅行计划，包含景点、交通和食宿"
+        },
+        "document-processing": {
+          "title": "文档批处理",
+          "description": "Manus AI批量分析合同、财务报表、用户反馈等大量文档，提取关键信息"
+        }
+      }
+    },
+    "Footer": {
+      "description": "Manus AI 是一个通用型AI Agent，能够理解您的需求并自动完成各种复杂任务，提高工作效率。",
+      "rights": "保留所有权利。",
+      "products": "Manus AI 产品",
+      "resources": "Manus AI 资源",
+      "company": "公司",
+      "legal": "法律",
+      "links": {
+        "agent": "Manus AI 助手",
+        "platform": "Manus AI 平台",
+        "enterprise": "Manus AI 企业版",
+        "documentation": "Manus AI 文档",
+        "api": "Manus AI API",
+        "examples": "Manus AI 示例",
+        "about": "关于我们",
+        "blog": "Manus AI 博客",
+        "careers": "招聘",
+        "privacy": "隐私政策",
+        "terms": "使用条款",
+        "security": "安全"
+      }
+    },
+    "Index": {
+      "meta": {
+        "title": "Manus AI - 2025年推出的全球首款通用型AI助手",
+        "description": "Manus AI是2025年成立的公司推出的全球首款通用型AI代理，能将思想转化为行动，在GAIA基准测试中达到SOTA表现。Manus AI擅长自动完成旅行规划、股票分析和内容创建等复杂任务。",
+        "keywords": "Manus AI, Manus AI助手, 通用型AI, 2025 AI, GAIA基准测试, SOTA表现, Manus AI Agent, B2B AI解决方案, 股票分析AI, 旅行规划AI, 智能助手, 任务自动化, AI代理",
+        "og": {
+          "title": "Manus AI - 2025年推出的全球首款通用型AI助手",
+          "description": "Manus AI源自拉丁语\"手\"，象征执行任务的能力，在所有GAIA基准测试难度级别中达到SOTA表现，远超GPT-4"
+        },
+        "twitter": {
+          "title": "Manus AI - 2025年推出的全球首款通用型AI助手",
+          "description": "Manus AI是一个强大的通用型AI代理，能将用户的想法转化为行动，处理包括B2B供应商sourcing和财务报告分析在内的各类任务"
+        }
+      },
+      "hero": {
+        "introducing": "全新发布",
+        "title": "将思想转化为行动的AI助手",
+        "description": "Manus AI是一款全球领先的通用型AI代理，旨在帮助用户高效完成各类复杂任务。Manus名称源自拉丁语\"手\"，象征其执行任务的能力，在GAIA基准测试的所有三个难度级别中均达到了最新状态(SOTA)表现，远超其他AI助手。",
+        "getStarted": "开始使用Manus AI",
+        "invite": "申请邀请码",
+        "documentation": "了解Manus AI更多",
+        "tips": {
+          "title": "Manus AI 使用技巧 - 成立于2025年的AI领导者",
+          "expression": {
+            "title": "Manus AI 需求表达技巧",
+            "description": "对 Manus AI 最终要交付的结果描述越清晰具体，Manus AI 执行得越精准。明确说明期望、格式要求和质量标准。"
+          },
+          "breakdown": {
+            "title": "Manus AI 任务拆解方法",
+            "description": "面对复杂任务，采用渐进式方法，先让 Manus AI 完成一部分，再根据中间结果提出下一步需求。"
+          },
+          "knowledge": {
+            "title": "Manus AI Knowledge体系",
+            "description": "向 Manus AI 添加特定要求和偏好，或当 Manus AI 完成一次满意操作后，告诉它\"记住这种方式，下次也这样做\"。"
+          },
+          "correction": {
+            "title": "Manus AI 及时纠偏",
+            "description": "发现 Manus AI 执行方向与期望有偏差时，立即介入指导，不要等到任务结束。Manus AI 会迅速调整策略。"
+          }
+        }
+      },
+      "overview": {
+        "title": "为什么选择Manus AI",
+        "description1": "Manus AI成立于2025年，是一个强大的通用型AI代理，旨在将用户的想法转化为行动。在GAIA基准测试中，Manus AI达到了所有三个难度级别的最新状态(SOTA)表现，远超当前市场上的其他AI助手。",
+        "description2": "Manus AI不仅提供建议，还能直接交付完整的任务成果。人类在GAIA测试中得分92%，而配备插件的GPT-4仅得15%，Manus AI的表现显著优于当前先进模型。",
+        "supports": {
+          "systems": "Manus AI多平台支持",
+          "tools": "Manus AI丰富工具集成",
+          "environments": "Manus AI适应各种环境",
+          "datasets": "Manus AI处理多样数据"
+        },
+        "components": {
+          "title": "Manus AI核心优势",
+          "spec": "智能工具调用",
+          "desktop": "独立运行能力",
+          "servers": "任务规划执行"
+        },
+        "architecture": {
+          "title": "Manus AI工作原理",
+          "description": "Manus AI采用先进的Agent架构，能够理解需求、规划步骤、调用工具并执行任务。",
+          "diagram": "flowchart TB\n    Input[用户需求]-->|理解意图|Planning[任务规划]\n    Planning-->|分解步骤|Execution[执行任务]\n    Execution-->|调用工具|Tools[工具集成]\n    Tools-->|处理结果|Output[完成任务]\n    subgraph 核心能力\n        Understanding[理解能力]\n        Reasoning[推理能力]\n        ToolUsage[工具使用]\n    end",
+          "server": {
+            "title": "Manus AI与传统聊天机器人的区别",
+            "description": "Manus AI与ChatGPT、Claude等传统聊天机器人相比具有显著优势：",
+            "revision": "Manus AI的独特之处",
+            "primitives": {
+              "description": "与传统聊天机器人的关键区别：",
+              "headers": ["能力", "传统聊天机器人", "Manus AI"],
+              "items": [
+                {
+                  "primitive": "工具调用",
+                  "control": "有限或无",
+                  "description": "先进且系统化",
+                  "example": "浏览器、代码编辑器、数据分析工具等"
+                },
+                {
+                  "primitive": "工作方式",
+                  "control": "需要持续监督",
+                  "description": "独立工作",
+                  "example": "在后台完成任务"
+                },
+                {
+                  "primitive": "交互方式",
+                  "control": "工具式交互",
+                  "description": "人类同事式协作",
+                  "example": "适应不断变化的需求"
+                }
+              ]
+            },
+            "features": [
+              {
+                "title": "Manus AI调用工具的能力",
+                "description": "传统Chatbot只能给你文字答案或建议，而Manus AI则通过系统化的任务规划和执行，主动调用各类工具，真正全链路地帮你完成复杂任务。",
+                "items": [
+                  "Manus AI主动调用浏览器、代码编辑器、数据分析工具等",
+                  "Manus AI不只是告诉你\"应该怎么做\"，而是直接为你把事情做好",
+                  "Manus AI交付完整成果而非仅提供指导"
+                ]
+              },
+              {
+                "title": "Manus AI独立运行能力",
+                "description": "Manus AI拥有自己的计算环境，可以独立工作而不需要你的持续监督。",
+                "items": [
+                  "你处理其他事务的同时，Manus AI在后台自主完成任务",
+                  "Manus AI真正释放你的时间和注意力",
+                  "Manus AI采用\"委托-交付\"模式工作"
+                ]
+              },
+              {
+                "title": "Manus AI人机交互新范式",
+                "description": "与Manus AI的协作更像与人类同事合作，而非使用工具。",
+                "items": [
+                  "Manus AI灵活适应不断变化的需求",
+                  "Manus AI记住你的偏好用于未来任务",
+                  "Manus AI成为越来越懂你的智能伙伴"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "protocol": {
+        "inviteCode": {
+          "title": "获取邀请码",
+          "description": "Manus AI 目前处于封闭测试阶段。获取邀请码优先体验",
+          "buttonText": "获取邀请码",
+          "limitedSpots": "名额有限",
+          "exclusiveAccess": "专享测试权限",
+          "prioritySupport": "优先技术支持",
+          "benefits": {
+            "priority": {
+              "title": "优先体验",
+              "description": "获得Manus AI最新功能的优先体验权限"
+            },
+            "support": {
+              "title": "专属支持",
+              "description": "享受专属技术支持和问题解答服务"
+            },
+            "influence": {
+              "title": "影响产品",
+              "description": "您的反馈将直接影响产品的发展方向"
+            }
+          },
+          "guide": {
+            "title": "立即前往官网获取邀请码",
+            "description": "Manus AI 目前处于封闭测试阶段，您可以通过官方网站申请获取邀请码，抢先体验 Manus AI 的强大功能。",
+            "discordButton": "前往Discord申请邀请码",
+            "homeButton": "返回首页"
+          },
+          "benefitsSection": {
+            "title": "邀请码权益"
+          },
+          "closedBeta": {
+            "title": "为什么现在是封闭测试？",
+            "description": "Manus AI 正处于快速迭代阶段，我们希望通过邀请制确保每位用户都能获得良好的体验，同时收集宝贵的反馈来不断改进产品。"
+          }
+        }
+      }
+    },
+    "footer": {
+      "description": "模型上下文协议（MCP）是一个用于集成AI模型与外部数据和工具的开放标准。",
+      "copyright": "保留所有权利。",
+      "sections": {
+        "product": "产品",
+        "community": "社区",
+        "legal": "法律"
+      },
+      "links": {
+        "docs": "文档",
+        "about": "关于",
+        "blog": "博客",
+        "changelog": "更新日志",
+        "github": "GitHub",
+        "discord": "Discord",
+        "twitter": "Twitter",
+        "feedback": "反馈",
+        "privacy": "隐私政策",
+        "terms": "服务条款"
+      }
+    },
+    "Common": {
+      "loading": "加载中...",
+      "error": "出错了",
+      "retry": "重试",
+      "close": "关闭",
+      "save": "保存",
+      "cancel": "取消",
+      "delete": "删除",
+      "edit": "编辑",
+      "view": "查看",
+      "more": "更多",
+      "back": "返回",
+      "next": "下一步",
+      "previous": "上一步",
+      "finish": "完成",
+      "continue": "继续",
+      "submit": "提交",
+      "confirm": "确认",
+      "success": "成功",
+      "failed": "失败",
+      "copied": "已复制",
+      "learnMore": "了解更多"
+    }
+  }

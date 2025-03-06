@@ -1,0 +1,288 @@
+{
+    "nav": {
+      "home": "ホーム",
+      "products": "Manus AI 製品",
+      "cases": "Manus AI 事例",
+      "invite": "招待コードを申請",
+      "about": "Manus AI について",
+      "community": "コミュニティ",
+      "getting_started": "入門ガイド",
+      "guides": "使用ガイド",
+      "advanced": "高度なトピック",
+      "items": {
+        "introduction": "紹介",
+        "installation": "インストール",
+        "quick_start": "クイックスタート",
+        "resources": "リソース管理",
+        "tools": "ツール統合",
+        "messages": "メッセージ形式",
+        "security": "セキュリティ",
+        "deployment": "デプロイメント",
+        "configuration": "設定"
+      },
+      "flowchart": "Manus AI フローチャート",
+      "switchLocale": "英語に切り替え"
+    },
+    "home": {
+      "title": "Manus AI - AIをあなたのアシスタントに",
+      "description": "Manus AIは、様々な複雑なタスクを完了するのに役立つ先進的な汎用AIエージェントです。",
+      "getStarted": "Manus AIを使い始める",
+      "joinCommunity": "Manus AIコミュニティに参加"
+    },
+    "Cases": {
+      "title": "Manus AIの想像を超える能力",
+      "description": "Manus AIはさまざまな複雑なタスクを処理し、総合的なインテリジェントサポートを提供します",
+      "viewAll": "Manus AIのユースケースをもっと見る",
+      "cases": {
+        "data-analysis": {
+          "title": "データ分析と可視化",
+          "description": "データをアップロードすると、Manus AIが自動的に分析し、豊かで直感的なデータ可視化とレポートを生成します"
+        },
+        "code-development": {
+          "title": "コード開発とデバッグ",
+          "description": "要件を提示すると、Manus AIが自動的にコードを作成、テスト、デプロイし、完全なアプリケーションを作成します"
+        },
+        "content-creation": {
+          "title": "コンテンツ作成とデザイン",
+          "description": "Manus AIは美しいスライド、レポート、チャート、各種デザイン素材を生成し、作業効率を向上させます"
+        },
+        "research": {
+          "title": "深い研究と資料整理",
+          "description": "Manus AIは複数のソースから情報を自動的に収集・整理し、包括的で詳細な研究レポートを生成します"
+        },
+        "travel-planning": {
+          "title": "旅行計画と手配",
+          "description": "予算と好みに基づいて、Manus AIは観光スポット、交通、宿泊施設を含む完全な旅行計画を自動生成します"
+        },
+        "document-processing": {
+          "title": "文書一括処理",
+          "description": "Manus AIは契約書、財務諸表、ユーザーフィードバックなど大量の文書を一括分析し、重要な情報を抽出します"
+        }
+      }
+    },
+    "Footer": {
+      "description": "Manus AIは汎用AIエージェントで、あなたのニーズを理解し、様々な複雑なタスクを自動的に完了して作業効率を向上させます。",
+      "rights": "全著作権所有。",
+      "products": "Manus AI 製品",
+      "resources": "Manus AI リソース",
+      "company": "会社",
+      "legal": "法的情報",
+      "links": {
+        "agent": "Manus AI アシスタント",
+        "platform": "Manus AI プラットフォーム",
+        "enterprise": "Manus AI エンタープライズ",
+        "documentation": "Manus AI ドキュメント",
+        "api": "Manus AI API",
+        "examples": "Manus AI 例",
+        "about": "私たちについて",
+        "blog": "Manus AI ブログ",
+        "careers": "採用情報",
+        "privacy": "プライバシーポリシー",
+        "terms": "利用規約",
+        "security": "セキュリティ"
+      }
+    },
+    "Index": {
+      "meta": {
+        "title": "Manus AI - 2025年に発表された世界初の汎用AIアシスタント",
+        "description": "Manus AIは2025年に設立された会社が発表した世界初の汎用AIエージェントで、思考を行動に変え、GAIAベンチマークでSOTAパフォーマンスを達成しています。Manus AIは旅行計画、株式分析、コンテンツ作成などの複雑なタスクを自動的に完了することに優れています。",
+        "keywords": "Manus AI, Manus AIアシスタント, 汎用AI, 2025 AI, GAIAベンチマーク, SOTAパフォーマンス, Manus AIエージェント, B2B AIソリューション, 株式分析AI, 旅行計画AI, インテリジェントアシスタント, タスク自動化, AIエージェント",
+        "og": {
+          "title": "Manus AI - 2025年に発表された世界初の汎用AIアシスタント",
+          "description": "Manus AIはラテン語の「手」に由来し、タスクを実行する能力を象徴し、すべてのGAIAベンチマークの難易度レベルでSOTAパフォーマンスを達成し、GPT-4を大幅に上回ります"
+        },
+        "twitter": {
+          "title": "Manus AI - 2025年に発表された世界初の汎用AIアシスタント",
+          "description": "Manus AIは強力な汎用AIエージェントで、ユーザーのアイデアを行動に変換し、B2Bサプライヤーのソーシングや財務報告分析を含むさまざまなタスクを処理します"
+        }
+      },
+      "hero": {
+        "introducing": "新発表",
+        "title": "思考を行動に変えるAIアシスタント",
+        "description": "Manus AIは世界をリードする汎用AIエージェントで、ユーザーが様々な複雑なタスクを効率的に完了できるよう設計されています。Manus（マヌス）という名前はラテン語の「手」に由来し、タスクを実行する能力を象徴しています。GAIAベンチマークの3つの難易度レベルすべてで最先端（SOTA）のパフォーマンスを達成し、他のAIアシスタントを大幅に上回っています。",
+        "getStarted": "Manus AIを使い始める",
+        "invite": "招待コードを申請",
+        "documentation": "Manus AIについてもっと知る",
+        "tips": {
+          "title": "Manus AI 使用のヒント - 2025年設立のAIリーダー",
+          "expression": {
+            "title": "Manus AI 要求表現のコツ",
+            "description": "Manus AIに最終的に提供してほしい結果を明確かつ具体的に説明するほど、Manus AIの実行はより正確になります。期待、フォーマット要件、品質基準を明確に述べてください。"
+          },
+          "breakdown": {
+            "title": "Manus AI タスク分解方法",
+            "description": "複雑なタスクに直面したら、段階的なアプローチを採用し、まずManus AIに一部を完了させ、中間結果に基づいて次のステップの要件を提示します。"
+          },
+          "knowledge": {
+            "title": "Manus AI Knowledge体系",
+            "description": "Manus AIに特定の要件や好みを追加するか、Manus AIが満足のいく操作を完了したら、「この方法を覚えておいて、次回も同じようにしてください」と伝えます。"
+          },
+          "correction": {
+            "title": "Manus AI タイムリーな修正",
+            "description": "Manus AIの実行方向が期待と異なることに気づいたら、すぐに介入して指導し、タスクが終了するまで待たないでください。Manus AIは迅速に戦略を調整します。"
+          }
+        }
+      },
+      "overview": {
+        "title": "なぜManus AIを選ぶのか",
+        "description1": "Manus AIは2025年に設立され、ユーザーのアイデアを行動に変換することを目的とした強力な汎用AIエージェントです。GAIAベンチマークでは、Manus AIは3つの難易度レベルすべてで最先端（SOTA）のパフォーマンスを達成し、現在市場にある他のAIアシスタントを大幅に上回っています。",
+        "description2": "Manus AIはアドバイスを提供するだけでなく、タスクの完全な成果を直接提供することもできます。人間はGAIAテストで92%のスコアを獲得していますが、プラグイン付きのGPT-4はわずか15%しか獲得していません。Manus AIのパフォーマンスは現在の先進モデルを大幅に上回っています。",
+        "supports": {
+          "systems": "Manus AI マルチプラットフォームサポート",
+          "tools": "Manus AI 豊富なツール統合",
+          "environments": "Manus AI 様々な環境への適応",
+          "datasets": "Manus AI 多様なデータ処理"
+        },
+        "components": {
+          "title": "Manus AI コア優位性",
+          "spec": "インテリジェントツール呼び出し",
+          "desktop": "独立実行能力",
+          "servers": "タスク計画実行"
+        },
+        "architecture": {
+          "title": "Manus AI 動作原理",
+          "description": "Manus AIは先進的なエージェントアーキテクチャを採用し、ニーズを理解し、ステップを計画し、ツールを呼び出してタスクを実行することができます。",
+          "diagram": "flowchart TB\n    Input[ユーザー要件]-->|意図理解|Planning[タスク計画]\n    Planning-->|ステップ分解|Execution[タスク実行]\n    Execution-->|ツール呼び出し|Tools[ツール統合]\n    Tools-->|結果処理|Output[タスク完了]\n    subgraph コア能力\n        Understanding[理解能力]\n        Reasoning[推論能力]\n        ToolUsage[ツール使用]\n    end",
+          "server": {
+            "title": "Manus AIと従来のチャットボットの違い",
+            "description": "Manus AIはChatGPT、Claudeなどの従来のチャットボットと比較して顕著な優位性を持っています：",
+            "revision": "Manus AIのユニークな点",
+            "primitives": {
+              "description": "従来のチャットボットとの主な違い：",
+              "headers": ["能力", "従来のチャットボット", "Manus AI"],
+              "items": [
+                {
+                  "primitive": "ツール呼び出し",
+                  "control": "限定的または無し",
+                  "description": "先進的かつ体系的",
+                  "example": "ブラウザ、コードエディタ、データ分析ツールなど"
+                },
+                {
+                  "primitive": "作業方法",
+                  "control": "継続的な監視が必要",
+                  "description": "独立作業",
+                  "example": "バックグラウンドでタスクを完了"
+                },
+                {
+                  "primitive": "インタラクション方法",
+                  "control": "ツール的インタラクション",
+                  "description": "人間の同僚のような協力",
+                  "example": "変化するニーズに適応"
+                }
+              ]
+            },
+            "features": [
+              {
+                "title": "Manus AI ツール呼び出し能力",
+                "description": "従来のチャットボットはテキスト回答やアドバイスしか提供できませんが、Manus AIは体系的なタスク計画と実行を通じて、積極的に様々なツールを呼び出し、複雑なタスクを真にエンドツーエンドで完了します。",
+                "items": [
+                  "Manus AIは積極的にブラウザ、コードエディタ、データ分析ツールなどを呼び出します",
+                  "Manus AIは「どうすべきか」を教えるだけでなく、直接物事を適切に行います",
+                  "Manus AIは単なるガイダンスではなく、完全な成果を提供します"
+                ]
+              },
+              {
+                "title": "Manus AI 独立実行能力",
+                "description": "Manus AIは独自の計算環境を持ち、継続的な監視なしに独立して作業することができます。",
+                "items": [
+                  "あなたが他の事柄を処理している間、Manus AIはバックグラウンドで自律的にタスクを完了します",
+                  "Manus AIは真にあなたの時間と注意を解放します",
+                  "Manus AIは「委任-配信」モデルで動作します"
+                ]
+              },
+              {
+                "title": "Manus AI 人間とコンピュータの新しい相互作用パラダイム",
+                "description": "Manus AIとの協力は、ツールを使用するというよりも、人間の同僚との協力に似ています。",
+                "items": [
+                  "Manus AIは常に変化するニーズに柔軟に適応します",
+                  "Manus AIは将来のタスクのためにあなたの好みを記憶します",
+                  "Manus AIはますますあなたを理解するインテリジェントパートナーになります"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "protocol": {
+        "inviteCode": {
+          "title": "招待コードを取得",
+          "description": "Manus AIは現在クローズドベータテスト段階です。招待コードを取得して優先的に体験しましょう",
+          "buttonText": "招待コードを取得",
+          "limitedSpots": "枠数限定",
+          "exclusiveAccess": "テスト権限を独占",
+          "prioritySupport": "優先技術サポート",
+          "benefits": {
+            "priority": {
+              "title": "優先体験",
+              "description": "Manus AIの最新機能を優先的に体験する権限を獲得"
+            },
+            "support": {
+              "title": "専属サポート",
+              "description": "専属の技術サポートと問題解決サービスを享受"
+            },
+            "influence": {
+              "title": "製品に影響",
+              "description": "あなたのフィードバックが製品の発展方向に直接影響します"
+            }
+          },
+          "guide": {
+            "title": "今すぐ公式サイトで招待コードを取得",
+            "description": "Manus AIは現在クローズドベータテスト段階にあります。公式ウェブサイトから招待コードを申請して、Manus AIの強力な機能をいち早く体験できます。",
+            "discordButton": "Discordで招待コードを申請",
+            "homeButton": "ホームに戻る"
+          },
+          "benefitsSection": {
+            "title": "招待コード特典"
+          },
+          "closedBeta": {
+            "title": "なぜ現在はクローズドベータなのか？",
+            "description": "Manus AIは急速な反復段階にあり、招待制を通じて各ユーザーが良い体験を得られるようにし、同時に製品を継続的に改善するための貴重なフィードバックを収集したいと考えています。"
+          }
+        }
+      }
+    },
+    "footer": {
+      "description": "モデルコンテキストプロトコル（MCP）は、AIモデルと外部データおよびツールを統合するためのオープンスタンダードです。",
+      "copyright": "全著作権所有。",
+      "sections": {
+        "product": "製品",
+        "community": "コミュニティ",
+        "legal": "法的情報"
+      },
+      "links": {
+        "docs": "ドキュメント",
+        "about": "概要",
+        "blog": "ブログ",
+        "changelog": "更新履歴",
+        "github": "GitHub",
+        "discord": "Discord",
+        "twitter": "Twitter",
+        "feedback": "フィードバック",
+        "privacy": "プライバシーポリシー",
+        "terms": "利用規約"
+      }
+    },
+    "Common": {
+      "loading": "読み込み中...",
+      "error": "エラーが発生しました",
+      "retry": "再試行",
+      "close": "閉じる",
+      "save": "保存",
+      "cancel": "キャンセル",
+      "delete": "削除",
+      "edit": "編集",
+      "view": "表示",
+      "more": "もっと見る",
+      "back": "戻る",
+      "next": "次へ",
+      "previous": "前へ",
+      "finish": "完了",
+      "continue": "続ける",
+      "submit": "送信",
+      "confirm": "確認",
+      "success": "成功",
+      "failed": "失敗",
+      "copied": "コピーしました",
+      "learnMore": "詳細を見る"
+    }
+  }
