@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { ArrowRight, MousePointerClick, Code, Lightbulb, Gift } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { AlternativeSection } from './alternative-section';
 
 export function HeroSection() {
   const t = useTranslations('Index');
@@ -130,6 +131,8 @@ export function HeroSection() {
               </p>
             </motion.div>
           </motion.div>
+
+          <AlternativeSection />
           
           {/* 使用技巧部分 */}
           <motion.div

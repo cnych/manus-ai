@@ -25,6 +25,7 @@ const item = {
 
 export default function InviteClient() {
   const t = useTranslations('Index.protocol.inviteCode');
+  const tAlt = useTranslations('Index.alternatives');
 
   const benefits = [
     {
@@ -41,6 +42,24 @@ export default function InviteClient() {
       icon: <Check className="h-6 w-6" />,
       title: t('benefits.influence.title'),
       description: t('benefits.influence.description')
+    }
+  ];
+
+  const alternatives = [
+    {
+      name: 'TARS Agent',
+      description: tAlt('items.tars.description'),
+      url: 'https://agent-tars.com'
+    },
+    {
+      name: 'OpenManus',
+      description: tAlt('items.openmanus.description'),
+      url: 'https://github.com/manusai/openmanus'
+    },
+    {
+      name: 'OWL',
+      description: tAlt('items.owl.description'),
+      url: 'https://github.com/camel-ai/owl'
     }
   ];
 
@@ -65,8 +84,9 @@ export default function InviteClient() {
 
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
         {/* 左侧：引导区域 */}
-        <motion.div variants={item} className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8">
-        <div className="text-center py-8">
+        <motion.div variants={item} className="space-y-8">
+        <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8">
+            <div className="text-center py-8">
             <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-4">
             {t('guide.title')}
             </h2>
@@ -86,6 +106,33 @@ export default function InviteClient() {
                 <ArrowRight className="ml-2 h-4 w-4" />
                 </Link>
             </Button>
+            </div>
+            </div>
+        </div>
+
+        {/* 替代品推荐 */}
+        <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8">
+            <h3 className="text-xl font-semibold mb-6 text-gray-900 dark:text-gray-100">
+              {tAlt('title')}
+            </h3>
+            <div className="space-y-6">
+            {alternatives.map((alt, index) => (
+                <a
+                key={index}
+                href={alt.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block p-4 rounded-lg border border-gray-200 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors"
+                >
+                <h4 className="font-medium text-gray-900 dark:text-gray-100 flex items-center">
+                    {alt.name}
+                    <ExternalLink className="ml-2 h-4 w-4 text-gray-400" />
+                </h4>
+                <p className="mt-1 text-sm text-gray-600 dark:text-gray-400">
+                    {alt.description}
+                </p>
+                </a>
+            ))}
             </div>
         </div>
         </motion.div>

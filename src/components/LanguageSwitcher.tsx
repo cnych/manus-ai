@@ -64,7 +64,7 @@ export default function LanguageSwitcher() {
             <Link
               locale={code}
               href={getTypedPathAndParams(path) as any}
-              className={currentLocale === code ? 'font-medium' : ''}
+              className={currentLocale === code ? 'cursor-pointer font-medium' : 'cursor-pointer'}
             >
               {name}
             </Link>

@@ -8,40 +8,39 @@ export function Footer() {
   const t = useTranslations('Footer');
   const currentYear = new Date().getFullYear();
 
-  // const footerLinks = [
-  //   {
-  //     title: t('products'),
-  //     links: [
-  //       { label: t('links.agent'), href: '/products/agent' },
-  //       { label: t('links.platform'), href: '/products/platform' },
-  //       { label: t('links.enterprise'), href: '/products/enterprise' },
-  //     ],
-  //   },
-  //   {
-  //     title: t('resources'),
-  //     links: [
-  //       { label: t('links.documentation'), href: '/docs' },
-  //       { label: t('links.api'), href: '/docs/api' },
-  //       { label: t('links.examples'), href: '/examples' },
-  //     ],
-  //   },
-  //   {
-  //     title: t('company'),
-  //     links: [
-  //       { label: t('links.about'), href: '/about' },
-  //       { label: t('links.blog'), href: '/blog' },
-  //       { label: t('links.careers'), href: '/careers' },
-  //     ],
-  //   },
-  //   {
-  //     title: t('legal'),
-  //     links: [
-  //       { label: t('links.privacy'), href: '/privacy' },
-  //       { label: t('links.terms'), href: '/terms' },
-  //       { label: t('links.security'), href: '/security' },
-  //     ],
-  //   },
-  // ];
+  const footerLinks = [
+    // {
+    //   title: t('products'),
+    //   links: [
+    //     { label: t('links.agent'), href: '/products/agent' },
+    //     { label: t('links.platform'), href: '/products/platform' },
+    //     { label: t('links.enterprise'), href: '/products/enterprise' },
+    //   ],
+    // },
+    {
+      title: t('resources'),
+      links: [
+        { label: "Claude MCP", href: 'https://www.claudemcp.com' },
+        { label: "ToMarkdown", href: 'https://www.tomarkdown.org' },
+      ],
+    },
+    // {
+    //   title: t('company'),
+    //   links: [
+    //     { label: t('links.about'), href: '/about' },
+    //     { label: t('links.blog'), href: '/blog' },
+    //     { label: t('links.careers'), href: '/careers' },
+    //   ],
+    // },
+    // {
+    //   title: t('legal'),
+    //   links: [
+    //     { label: t('links.privacy'), href: '/privacy' },
+    //     { label: t('links.terms'), href: '/terms' },
+    //     { label: t('links.security'), href: '/security' },
+    //   ],
+    // },
+  ];
 
   return (
     <footer className="bg-background border-t border-border">
@@ -56,7 +55,7 @@ export function Footer() {
             </p>
           </div>
 
-          {/* {footerLinks.map((section, index) => (
+          {footerLinks.map((section, index) => (
             <div key={index} className="space-y-4">
               <h3 className="font-medium text-foreground">{section.title}</h3>
               <ul className="space-y-3">
@@ -72,7 +71,7 @@ export function Footer() {
                 ))}
               </ul>
             </div>
-          ))} */}
+          ))}
         </div>
 
         <div className="mt-12 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center">

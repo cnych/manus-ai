@@ -239,6 +239,44 @@
             "description": "Manus AIは急速な反復段階にあり、招待制を通じて各ユーザーが良い体験を得られるようにし、同時に製品を継続的に改善するための貴重なフィードバックを収集したいと考えています。"
           }
         }
+      },
+      "alternatives": {
+        "title": "招待コードがありませんか？これらの代替AIエージェントをお試しください",
+        "description": "Manus AIは現在クローズドベータテスト中です。すぐに体験したい場合は、他のAIエージェントの代替品をお試しください",
+        "pros": {
+          "title": "代替AIエージェントの利点"
+        },
+        "features": {
+          "toolCalling": "ツール呼び出し",
+          "independentWork": "独立動作",
+          "humanLikeInteraction": "人間のようなインタラクション"
+        },
+        "items": {
+          "tars": {
+            "description": "ByteDanceのオープンソースマルチモーダルAIエージェントクライアント",
+            "pros": {
+              "workflow": "エージェントワークフローオーケストレーション",
+              "tools": "包括的なツールサポート（ブラウザ、CLI、ファイルなど）",
+              "artifacts": "リアルタイムアーティファクト生成"
+            }
+          },
+          "openmanus": {
+            "description": "オープンソースの汎用AIエージェントフレームワーク",
+            "pros": {
+              "opensource": "完全オープンソース",
+              "flexible": "柔軟なエージェント能力設定",
+              "integration": "簡単なツール統合"
+            }
+          },
+          "owl": {
+            "description": "CAMEL-AIベースのマルチエージェントコラボレーションフレームワーク",
+            "pros": {
+              "benchmark": "GAIAベンチマーク1位（58.18点）",
+              "toolkits": "包括的なツールキットサポート（ブラウザ、動画、画像など）",
+              "models": "複数モデルサポート（OpenAI、Qwen、DeepSeekなど）"
+            }
+          }
+        }
       }
     },
     "footer": {

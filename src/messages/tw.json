@@ -239,6 +239,44 @@
             "description": "Manus AI 正處於快速迭代階段，我們希望通過邀請制確保每位用戶都能獲得良好的體驗，同時收集寶貴的反饋來不斷改進產品。"
           }
         }
+      },
+      "alternatives": {
+        "title": "沒有邀請碼？試試這些替代的AI智能體",
+        "description": "Manus AI 目前處於封閉測試階段。如果您需要快速體驗，可以嘗試其他AI智能體替代品",
+        "pros": {
+          "title": "替代AI智能體的優勢"
+        },
+        "features": {
+          "toolCalling": "工具調用",
+          "independentWork": "獨立運行",
+          "humanLikeInteraction": "類人交互"
+        },
+        "items": {
+          "tars": {
+            "description": "字節跳動的開源多模態AI智能體客戶端",
+            "pros": {
+              "workflow": "智能體工作流編排",
+              "tools": "全面的工具支持（瀏覽器、命令行、文件等）",
+              "artifacts": "實時生成產物"
+            }
+          },
+          "openmanus": {
+            "description": "開源通用AI智能體框架",
+            "pros": {
+              "opensource": "完全開源",
+              "flexible": "靈活的智能體能力配置",
+              "integration": "易於工具集成"
+            }
+          },
+          "owl": {
+            "description": "基於CAMEL-AI的多智能體協作框架",
+            "pros": {
+              "benchmark": "GAIA基準測試排名第一（58.18分）",
+              "toolkits": "全面的工具包支持（瀏覽器、視頻、圖像等）",
+              "models": "支持多種模型（OpenAI、Qwen、DeepSeek等）"
+            }
+          }
+        }
       }
     },
     "footer": {

@@ -239,8 +239,46 @@
           "description": "Manus AI is in a rapid iteration phase. We hope to ensure a good experience for each user through an invitation system while collecting valuable feedback to continuously improve the product."
         }
       }
-    }
-  },
+    },
+    "alternatives": {
+        "title": "No invitation code? Try these alternative AI Agents",
+        "description": "Manus AI is currently in closed beta. If you need to experience quickly, you can try other AI Agent alternatives",
+        "pros": {
+          "title": "Pros of Alternative AI Agents"
+        },
+        "features": {
+          "toolCalling": "Tool Calling",
+          "independentWork": "Independent Operation",
+          "humanLikeInteraction": "Human-like Interaction"
+        },
+        "items": {
+          "tars": {
+            "description": "ByteDance's open-source multimodal AI Agent client",
+            "pros": {
+              "workflow": "Agent Workflow Orchestration",
+              "tools": "Comprehensive Tool Support (Browsers, CLIs, Files, etc.)",
+              "artifacts": "Real-time Artifact Generation"
+            }
+          },
+          "openmanus": {
+            "description": "Open-source general-purpose AI agent framework",
+            "pros": {
+              "opensource": "Fully Open Source",  
+              "flexible": "Flexible Agent Capability Configuration",
+              "integration": "Easy Tool Integration"
+            }
+          },
+          "owl": {
+            "description": "Multi-agent collaboration framework based on CAMEL-AI",
+            "pros": {
+              "benchmark": "GAIA Benchmark Ranked First (58.18 points)",
+              "toolkits": "Comprehensive Tool Kits Support (Browsers, Videos, Images, etc.)",
+              "models": "Support Multiple Models (OpenAI, Qwen, DeepSeek, etc.)"
+            }
+          }
+        }
+      }
+    },
   "footer": {
     "description": "Model Context Protocol (MCP) is an open standard for integrating AI models with external data and tools.",
     "copyright": "All rights reserved.",
